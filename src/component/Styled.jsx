@@ -14,7 +14,7 @@ const style = {
 return (
     <div style={style}>
     <h1>The word is{word}</h1>
-    <Link to={`/${word}/green/yellow`}></Link>
+    <Link to={`/${word}/blue/red`}></Link>
     </div>
 );
 };
